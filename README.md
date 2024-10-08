@@ -1,4 +1,3 @@
-markdown
 # Expense Tracker
 
 A simple and intuitive Expense Tracker application that allows users to manage their expenses efficiently. This application helps users record their daily expenditures and provides insights into their spending habits.
